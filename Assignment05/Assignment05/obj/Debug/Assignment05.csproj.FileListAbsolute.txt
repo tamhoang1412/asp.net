@@ -1,0 +1,6 @@
+c:\users\tamho\documents\visual studio 2015\Projects\Assignment05\Assignment05\bin\Debug\Assignment05.exe.config
+c:\users\tamho\documents\visual studio 2015\Projects\Assignment05\Assignment05\bin\Debug\Assignment05.exe
+c:\users\tamho\documents\visual studio 2015\Projects\Assignment05\Assignment05\bin\Debug\Assignment05.pdb
+c:\users\tamho\documents\visual studio 2015\Projects\Assignment05\Assignment05\obj\Debug\Assignment05.csprojResolveAssemblyReference.cache
+c:\users\tamho\documents\visual studio 2015\Projects\Assignment05\Assignment05\obj\Debug\Assignment05.exe
+c:\users\tamho\documents\visual studio 2015\Projects\Assignment05\Assignment05\obj\Debug\Assignment05.pdb
